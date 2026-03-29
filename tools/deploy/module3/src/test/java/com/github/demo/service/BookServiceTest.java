@@ -15,7 +15,7 @@ import com.github.demo.model.Book;
 public class BookServiceTest {
 
     // Testing API token key - lab tes
-    private static final String API_TOKEN = "AIzaSyAQfxPJiounkhOjODEO5ZieffeBv6yft2Q";
+    private static final String API_TOKEN = "AIzaSyDOCvDkO4SVcELmWMWwF482wK7nQTA8QAM";
     
     private BookService bookService;
 
