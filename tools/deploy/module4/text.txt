@@ -2,4 +2,4 @@
 cd tools/deploy/module4/
 
 # Agrega una línea al archivo (cualquier cambio sirve)
-echo "trigger deployment - $(Get-Date)" >> text.txt
+echo "trigger deployment - $(Get-Date)" >> text.txttrigger deployment
