@@ -1,1 +1,5 @@
-a
+# Navega a la ubicación del archivo
+cd tools/deploy/module4/
+
+# Agrega una línea al archivo (cualquier cambio sirve)
+echo "trigger deployment - $(Get-Date)" >> text.txt
